@@ -1,0 +1,14 @@
+c:\users\marta arcanjo\documents\visual studio 2012\Projects\Helloworld_console\Helloworld_console\bin\Debug\Helloworld_console.exe.config
+c:\users\marta arcanjo\documents\visual studio 2012\Projects\Helloworld_console\Helloworld_console\bin\Debug\Helloworld_console.exe
+c:\users\marta arcanjo\documents\visual studio 2012\Projects\Helloworld_console\Helloworld_console\bin\Debug\Helloworld_console.pdb
+c:\users\marta arcanjo\documents\visual studio 2012\Projects\Helloworld_console\Helloworld_console\obj\Debug\Helloworld_console.exe
+c:\users\marta arcanjo\documents\visual studio 2012\Projects\Helloworld_console\Helloworld_console\obj\Debug\Helloworld_console.pdb
+C:\Users\Marta Arcanjo\Documents\Visual Studio 2012\Projects\Helloworld_console\Helloworld_console\obj\Debug\Helloworld_console.csprojAssemblyReference.cache
+C:\Users\Marta Arcanjo\Documents\Visual Studio 2012\Projects\Helloworld_console\Helloworld_console\obj\Debug\Helloworld_console.csproj.CoreCompileInputs.cache
+C:\Users\daniel\source\repos\Helloworld_console\Helloworld_console\bin\Debug\Helloworld_console.exe.config
+C:\Users\daniel\source\repos\Helloworld_console\Helloworld_console\bin\Debug\Helloworld_console.exe
+C:\Users\daniel\source\repos\Helloworld_console\Helloworld_console\bin\Debug\Helloworld_console.pdb
+C:\Users\daniel\source\repos\Helloworld_console\Helloworld_console\obj\Debug\Helloworld_console.csproj.AssemblyReference.cache
+C:\Users\daniel\source\repos\Helloworld_console\Helloworld_console\obj\Debug\Helloworld_console.csproj.CoreCompileInputs.cache
+C:\Users\daniel\source\repos\Helloworld_console\Helloworld_console\obj\Debug\Helloworld_console.exe
+C:\Users\daniel\source\repos\Helloworld_console\Helloworld_console\obj\Debug\Helloworld_console.pdb
